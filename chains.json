@@ -1,1 +1,58 @@
-
+{
+  "version": 1,
+  "updated_at": "2026-06-07T00:00:00Z",
+  "chains": [
+    {
+      "id": "eth",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "chain_id": 1,
+      "rpc": "https://ethereum-rpc.publicnode.com",
+      "explorer": "https://etherscan.io",
+      "decimals": 18,
+      "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/eth.png",
+      "coingecko_id": "ethereum",
+      "is_testnet": false,
+      "enabled": true
+    },
+    {
+      "id": "bnb",
+      "name": "BNB Smart Chain",
+      "symbol": "BNB",
+      "chain_id": 56,
+      "rpc": "https://bsc-rpc.publicnode.com",
+      "explorer": "https://bscscan.com",
+      "decimals": 18,
+      "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/bnb.png",
+      "coingecko_id": "binancecoin",
+      "is_testnet": false,
+      "enabled": true
+    },
+    {
+      "id": "polygon",
+      "name": "Polygon",
+      "symbol": "POL",
+      "chain_id": 137,
+      "rpc": "https://polygon-bor-rpc.publicnode.com",
+      "explorer": "https://polygonscan.com",
+      "decimals": 18,
+      "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/polygon.png",
+      "coingecko_id": "matic-network",
+      "is_testnet": false,
+      "enabled": true
+    },
+    {
+      "id": "base",
+      "name": "Base",
+      "symbol": "ETH",
+      "chain_id": 8453,
+      "rpc": "https://base-rpc.publicnode.com",
+      "explorer": "https://basescan.org",
+      "decimals": 18,
+      "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/base.png",
+      "coingecko_id": "ethereum",
+      "is_testnet": false,
+      "enabled": true
+    }
+  ]
+}
