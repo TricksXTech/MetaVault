@@ -37,7 +37,7 @@
       "explorer": "https://polygonscan.com",
       "decimals": 18,
       "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/polygon.png",
-      "coingecko_id": "matic-network",
+      "coingecko_id": "polygon-ecosystem-token",
       "is_testnet": false,
       "enabled": true
     },
