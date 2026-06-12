@@ -75,7 +75,7 @@
       "rpc": "https://avalanche-c-chain-rpc.publicnode.com",
       "explorer": "https://snowtrace.io",
       "decimals": 18,
-      "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/avalanche.png",
+      "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/avax.png",
       "coingecko_id": "avalanche-2",
       "is_testnet": false,
       "enabled": true
@@ -88,7 +88,7 @@
       "rpc": "https://fantom-rpc.publicnode.com",
       "explorer": "https://ftmscan.com",
       "decimals": 18,
-      "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/fantom.png",
+      "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/ftm.png",
       "coingecko_id": "fantom",
       "is_testnet": false,
       "enabled": true
@@ -153,7 +153,7 @@
       "rpc": "https://cronos-rpc.publicnode.com",
       "explorer": "https://cronoscan.com",
       "decimals": 18,
-      "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/cronos.png",
+      "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/cro.png",
       "coingecko_id": "crypto-com-chain",
       "is_testnet": false,
       "enabled": true
@@ -192,7 +192,7 @@
       "rpc": "https://api.harmony.one",
       "explorer": "https://explorer.harmony.one",
       "decimals": 18,
-      "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/harmony.png",
+      "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/one.png",
       "coingecko_id": "harmony",
       "is_testnet": false,
       "enabled": true
@@ -309,7 +309,7 @@
       "rpc": "https://rpc.xlayer.tech",
       "explorer": "https://www.okx.com/web3/explorer/xlayer",
       "decimals": 18,
-      "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/xlayer.png",
+      "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/okb.png",
       "coingecko_id": "okb",
       "is_testnet": false,
       "enabled": true
@@ -413,7 +413,7 @@
       "rpc": "https://http-mainnet.hecochain.com",
       "explorer": "https://hecoinfo.com",
       "decimals": 18,
-      "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/heco.png",
+      "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/ht.png",
       "coingecko_id": "huobi-token",
       "is_testnet": false,
       "enabled": true
@@ -426,7 +426,7 @@
       "rpc": "https://rpc.syscoin.org",
       "explorer": "https://explorer.syscoin.org",
       "decimals": 18,
-      "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/syscoin.png",
+      "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/sys.png",
       "coingecko_id": "syscoin",
       "is_testnet": false,
       "enabled": true
@@ -439,7 +439,7 @@
       "rpc": "https://babel-api.mainnet.iotex.io",
       "explorer": "https://iotexscan.io",
       "decimals": 18,
-      "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/iotex.png",
+      "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/iotx.png",
       "coingecko_id": "iotex",
       "is_testnet": false,
       "enabled": true
