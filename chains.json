@@ -482,6 +482,19 @@
       "coingecko_id": "shimmer",
       "is_testnet": false,
       "enabled": true
+    },
+    {
+      "id": "thundercore",
+      "name": "ThunderCore",
+      "symbol": "TT",
+      "chain_id": 108,
+      "rpc": "https://mainnet-rpc.thundercore.com",
+      "explorer": "https://explorer-mainnet.thundercore.com",
+      "decimals": 18,
+      "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/thundercore.png",
+      "coingecko_id": "thundercore",
+      "is_testnet": false,
+      "enabled": true
     }
   ]
 }
