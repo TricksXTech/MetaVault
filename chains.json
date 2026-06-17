@@ -492,7 +492,7 @@
       "explorer": "https://explorer-mainnet.thundercore.com",
       "decimals": 18,
       "logo": "https://raw.githubusercontent.com/TricksXTech/MetaVault/main/logos/chains/thundercore.png",
-      "coingecko_id": "thundercore",
+      "coingecko_id": "thunder-token",
       "is_testnet": false,
       "enabled": true
     }
